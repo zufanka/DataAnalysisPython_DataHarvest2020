@@ -1,1 +1,3 @@
-# DataAnalysisPython_DataHarvest2020
+# Data analysis with Python @ EIJC2020
+
+- libraries needed: `pandas`, `altair`
