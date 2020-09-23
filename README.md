@@ -19,6 +19,17 @@
 <br>**Online Python course aimed at journalists**
 <br>*Why?* especially aimed at journalists, and Winny made it. ;) 
 <br>https://datajournalism.com/watch/python-for-journalists
+<br>
+<br>**Article on Altair and its upsides**
+<br>http://fernandoi.cl/blog/posts/altair/
 
+<br>About Altair vs Matplotlib: 
+- mathplotlib is a classic; you should probably learn a little bit of this too;
+- mathplotlib needs less code to create a chart;
+- altair has a clearer syntax;
+- altair is better at interactivity;
+- altair charts can be adjusted in many many ways (also: more code ;) )
+
+<br>There are other libraries you can use to make charts: ggpy, bokeh, seaborn, plotly. All of them have slightly different advances. When you're beginning, simply pick one and learn it. :) 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zufanka/DataAnalysisPython_DataHarvest2020/master)
