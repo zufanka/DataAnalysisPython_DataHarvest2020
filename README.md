@@ -26,7 +26,7 @@ This Github repository was created for the Data Analysis with Python sessions[1]
 <br>**Article on Altair and its upsides**
 <br>http://fernandoi.cl/blog/posts/altair/
 
-<br>About Altair vs Matplotlib: 
+<br>**About Altair vs Matplotlib** 
 - mathplotlib is a classic; you should probably learn a little bit of this too;
 - mathplotlib needs less code to create a chart;
 - altair has a clearer syntax;
