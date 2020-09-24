@@ -16,12 +16,9 @@ We are two Python programming data journalists, named [Adriana](https://twitter.
 
 ## Words of encouragement
 <br> To be the noun, you have to do the verb. Wanne be a painter? Paint. Wanna be a programming data journalist? Program to make data journalistic stories... Note how there are no conditions like quality or duration. If you want to become a data-driven journalist who uses Python programming to analyse data and find stories, *all* you have to do is start. 
-<br> While that is true, be kind to yourself and start small. Start small! (Remember that a good story doesn't necessarily need a big dataset, it needs a big insight.) Also, the problem of good taste is very real, and you either overcome it or fail. Ira said it first...
+<br> While that is true, be kind to yourself and start small. Start small! (Remember that a good story doesn't necessarily need a big dataset, it needs a big insight.) Also, the problem of good taste is very real, and you either overcome it or fail. Radio- and podcast-maker [Ira Glass said it first](https://www.youtube.com/watch?v=X2wLP0izeJ)...
+<br>And finally, remember that most people are median well doing most things. That's how the median of every skill becomes the median, right? Watch [Jason Kaplan-Moss](https://www.youtube.com/watch?v=hIJdFxYlEKE) talk about this concept.
 <br>
-<br>**Ira Glass on the problem of good taste**
-<br>*Why?* The problem of good taste is a problem every beginner in every field has to overcome.
-<br>https://www.youtube.com/watch?v=X2wLP0izeJ
-
 ## Resources 
 <br>**Book Python for Everybody**
 <br>*Why?* Friendly and free introduction to Python (also comes with a [Coursera course](https://www.coursera.org/specializations/python) with the same name)
