@@ -4,8 +4,10 @@
 ![Image-intro](intro-image.png)
 
 ## About this repo
-This Github repository was created for the Data Analysis with Python sessions[1](https://dataharvesteijc2020.sched.com/event/dkjb/data-analysis-with-pandas-on-jupyter-1?iframe=no),[2](https://dataharvesteijc2020.sched.com/event/dkje/data-analysis-with-pandas-on-jupyter-2?iframe=no),[3](https://dataharvesteijc2020.sched.com/event/dkjh/data-analysis-with-pandas-on-jupyter-3?iframe=no) during the [DataHarvest+](https://dataharvest.eu) European Investigative Journalism Conference. During three session of about an hour, we took participants through the process of retrieving, cleaning, analysing, transforming, combining and visualising a dataset in the Jupyter environment. These were a showcase sessions, but you could follow along in your own time, by downloading [Anaconda](https://www.anaconda.com/products/individual#Downloads) and our notebooks which are all stored in this repo. 
+This Github repository was created for the Data Analysis with Python sessions ([1](https://dataharvesteijc2020.sched.com/event/dkjb/data-analysis-with-pandas-on-jupyter-1?iframe=no), [2](https://dataharvesteijc2020.sched.com/event/dkje/data-analysis-with-pandas-on-jupyter-2?iframe=no), [3](https://dataharvesteijc2020.sched.com/event/dkjh/data-analysis-with-pandas-on-jupyter-3?iframe=no)) during the [DataHarvest+](https://dataharvest.eu) European Investigative Journalism Conference. During three session of about an hour, we took participants through the process of retrieving, cleaning, analysing, transforming, combining and visualising a dataset in the Jupyter environment. These were a showcase sessions, but you could follow along in your own time, by downloading [Anaconda](https://www.anaconda.com/products/individual#Downloads) and our notebooks which are all stored in this repo. 
 
+## About the trainers
+We are two Python programming data journalists, named [Adriana](https://twitter.com/naberacka) and [Winny](https://twitter.com/winnydejong). While Winny works at the Dutch public news broadcast; [Adriana is for hire](http://homolova.sk/) as a freelance data journalist. Hire the woman already!
 
 ## Used in the training
 - obviously Python3
@@ -16,13 +18,13 @@ This Github repository was created for the Data Analysis with Python sessions[1]
 <br> To be the noun, you have to do the verb. Wanne be a painter? Paint. Wanna be a programming data journalist? Program to make data journalistic stories... Note how there are no conditions like quality or duration. If you want to become a data-driven journalist who uses Python programming to analyse data and find stories, *all* you have to do is start. 
 <br> While that is true, be kind to yourself and start small. Start small! (Remember that a good story doesn't necessarily need a big dataset, it needs a big insight.) Also, the problem of good taste is very real, and you either overcome it or fail. Ira said it first...
 <br>
-<br>**Ira Glass on the problem of good taste**  
+<br>**Ira Glass on the problem of good taste**
 <br>*Why?* The problem of good taste is a problem every beginner in every field has to overcome.
 <br>https://www.youtube.com/watch?v=X2wLP0izeJ
 
 ## Resources 
 <br>**Book Python for Everybody**
-<br>*Why?* Friendly and free introduction to Python (also comes with a Coursera course with the same name)
+<br>*Why?* Friendly and free introduction to Python (also comes with a [Coursera course](https://www.coursera.org/specializations/python) with the same name)
 <br>https://www.py4e.com/book
 <br>
 <br>**Basic introduction to Python**
@@ -35,6 +37,10 @@ This Github repository was created for the Data Analysis with Python sessions[1]
 <br>
 <br>**Article on Altair and its upsides**
 <br>http://fernandoi.cl/blog/posts/altair/
+<br>
+<br>**Handy snippets of Python code**
+<br>*Why?* Adriana collected all code snippets she looks up in one handy place. Private in the sense that this list solely exists for her own personal use, but now that you're here you might want to take a peek on this data analysis cheatsheet too.
+<br>https://gist.github.com/zufanka/39b8a55d707b3b4a2a4d369694739561
 <br>
 <br>**Annotated Python code**
 <br>*Why?* Learning to code starts by understanding code written by someone else, and editing it for your own purposes. Just like learning any other language. This repo contains commented Jupyter Notebooks to help you ease into Python programming for journalism.
